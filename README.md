@@ -39,10 +39,7 @@ Memperluas fungsi elemen `<footer>` dengan menambahkan judul, informasi pembuat 
 ---
 
 ## 📸 Hasil Tampilan Halaman Web (Screenshot)
-
-Berikut adalah visualisasi halaman web praktikum setelah seluruh komponen kode dan gaya CSS diterapkan:
-
-![Tampilan Halaman Utama Praktikum](screenshot-utama.png)
+![Tampilan Halaman Web](ssweb.jpeg)
 
 ---
 
