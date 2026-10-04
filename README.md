@@ -1,6 +1,7 @@
 # table
 BELAJAR WEB
 # Lab2Web - Praktikum 2 Pemrograman Web Dasar
+WEB JADI: https://choilrul48-create.github.io/table/
 
 
 ## 📋 Identitas Praktikan
