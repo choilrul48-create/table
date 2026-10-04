@@ -19,7 +19,7 @@ Menyusun tabel informasi biodata sederhana:
 * Menentukan judul kolom menggunakan tag `<th>` untuk kolom **NAMA** dan **PRODI** (teks otomatis tebal dan di tengah).
 * Mengisi baris data mahasiswa menggunakan tag `<td>`.
   ![Tampilan Halaman Web](ss1.png)
-  ![Tampilan Halaman Web](ss2.png)
+  ![Tampilan Halaman Web](ss12.png)
   
 
 ### 3. Pembuatan Form Input Data dengan Validasi
